@@ -1,0 +1,3 @@
+//escolhendo os arquivos que não vão subir para o container
+venv
+__pycache__
